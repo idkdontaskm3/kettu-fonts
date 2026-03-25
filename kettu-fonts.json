@@ -1,0 +1,14 @@
+{
+  "name": "Fast Font",
+  "spec": 3,
+  "fonts": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/Born2Root/Fast-Font/main/fast-fonts/Fast_Sans.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/Born2Root/Fast-Font/main/fast-fonts/Fast_Sans.ttf",
+    "ggsans-SemiBold": "https://raw.githubusercontent.com/Born2Root/Fast-Font/main/fast-fonts/Fast_Sans.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/Born2Root/Fast-Font/main/fast-fonts/Fast_Sans.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/Born2Root/Fast-Font/main/fast-fonts/Fast_Sans.ttf",
+    "SourceCodePro-Regular": "https://raw.githubusercontent.com/Born2Root/Fast-Font/main/fast-fonts/Fast_Mono.ttf",
+    "SourceCodePro-Medium": "https://raw.githubusercontent.com/Born2Root/Fast-Font/main/fast-fonts/Fast_Mono.ttf",
+    "SourceCodePro-SemiBold": "https://raw.githubusercontent.com/Born2Root/Fast-Font/main/fast-fonts/Fast_Mono.ttf"
+  }
+}

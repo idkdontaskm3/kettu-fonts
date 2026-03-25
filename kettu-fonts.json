@@ -1,6 +1,6 @@
 {
   "name": "Fast Font",
-  "spec": 3,
+  "spec": 1,
   "fonts": {
     "ggsans-Normal": "https://raw.githubusercontent.com/Born2Root/Fast-Font/main/fast-fonts/Fast_Sans.ttf",
     "ggsans-Medium": "https://raw.githubusercontent.com/Born2Root/Fast-Font/main/fast-fonts/Fast_Sans.ttf",
